@@ -1,0 +1,1 @@
+print(' Math is fun so don\"t be resistant \n Just learn the rules, the rules and consistent \n And most important, you must be persistent \n Adding fractions, get common denominatiors. \n Multiply by missing factors to get the denominators. \n Add numerators only ,Not denominators.')

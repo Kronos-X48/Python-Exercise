@@ -1,0 +1,8 @@
+print('This is a smiple calculator')
+a = int(input(''))
+b = int(input(''))
+print('add of the numbers is',a+b)
+print('subtraction of the no.s is',a-b)
+print('multiplication of no.s is',a*b)
+print('division of the no.s is',a/b)
+print("thankyou")

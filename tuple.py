@@ -1,0 +1,5 @@
+x = input()
+print(x, type(x))
+print(x,'converted to tuple and result is')
+x = tuple(x)
+print(x, type(x))
